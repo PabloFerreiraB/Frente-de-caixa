@@ -1,0 +1,11 @@
+Z:\PDV\PDV.Componentes\bin\Debug\PDV.Componentes.dll
+Z:\PDV\PDV.Componentes\bin\Debug\PDV.Componentes.pdb
+Z:\PDV\PDV.Componentes\obj\Debug\PDV.Componentes.csproj.CoreCompileInputs.cache
+Z:\PDV\PDV.Componentes\obj\Debug\PDV.Componentes.dll
+Z:\PDV\PDV.Componentes\obj\Debug\PDV.Componentes.pdb
+C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\bin\Debug\PDV.Componentes.dll
+C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\bin\Debug\PDV.Componentes.pdb
+C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.dll
+C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.pdb
+C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.csprojAssemblyReference.cache

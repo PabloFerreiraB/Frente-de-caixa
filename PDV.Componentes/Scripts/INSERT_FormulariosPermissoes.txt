@@ -1,0 +1,7 @@
+﻿IF NOT EXISTS(SELECT 1 FROM Formularios WHERE FormulariosId = 1)
+INSERT INTO Formularios (FormulariosId ,Nome) VALUES (1,'Clientes')
+GO
+
+IF NOT EXISTS(SELECT 1 FROM Formularios WHERE FormulariosId = 2)
+INSERT INTO Formularios (FormulariosId ,Nome) VALUES (2,'Usuários e Permissões para o sistema')
+GO

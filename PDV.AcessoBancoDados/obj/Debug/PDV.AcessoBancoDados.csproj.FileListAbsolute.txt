@@ -1,0 +1,11 @@
+Z:\PDV\PDV.AcessoBancoDados\bin\Debug\PDV.AcessoBancoDados.dll
+Z:\PDV\PDV.AcessoBancoDados\bin\Debug\PDV.AcessoBancoDados.pdb
+Z:\PDV\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.csproj.CoreCompileInputs.cache
+Z:\PDV\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.dll
+Z:\PDV\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.pdb
+C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\bin\Debug\PDV.AcessoBancoDados.dll
+C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\bin\Debug\PDV.AcessoBancoDados.pdb
+C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.dll
+C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.pdb
+C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.csprojAssemblyReference.cache
